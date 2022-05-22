@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/pink-blue-bokeh-circle-abstract-light-background-gold-shining-lights-sparkling-glittering-valentines-day-women-event-romantic-140286436.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+    border: 3px solid black;
+}
+
+img:hover{
+    width: 310px;
+    height: 260px;
+    border: 3px solid black;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
+
+h1{
+    font-family: 'Praise', cursive;
+    font-size: 70px;
+    color: black;
+}
+
+h4,h3{
+    font-family: 'Kaushan Script', cursive;
+}
+
+p,label{
+    font-family: 'Fredoka One', cursive
+}
